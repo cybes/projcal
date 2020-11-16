@@ -9,10 +9,9 @@ How users can see the calendar events between multiple organizations such as gma
 
 Description:
 UserA is using Gmail/Gsuite as the online platform for mail, notification, events etc.
-
 UserB is using Outlook/sharepoint as the platform for mail, calendar, events etc.
-
 UserC is using xyz app as the platform for mail calendar, events etc.
+
 Problem:
 UserA can only view meeting events/notifications of the organization that uses Gmail/Gsuite.
 UserB can only view meeting events/notifications of the organization that uses Outlook/sharepoint.
