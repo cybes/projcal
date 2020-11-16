@@ -8,6 +8,7 @@ Painpoint:
 How users can see the calendar events between multiple organizations such as gmail, outlook etc if they are working on a common project.
 
 Description:
+
 UserA is using Gmail/Gsuite as the online platform for mail, notification, events etc.
 UserB is using Outlook/sharepoint as the platform for mail, calendar, events etc.
 UserC is using xyz app as the platform for mail calendar, events etc.
